@@ -1,0 +1,18 @@
+[
+  {
+    "image": "assets/cover.webp",
+    "prompt": "Vintage 16th century copperplate woodcut etching, an ancient hourglass and cracked stone sundial amidst ruins, fine cross-hatching, monochrome sepia ink on rough aged parchment, dramatic shadows, antique manuscript illustration. No modern colors, photorealism, or 3D."
+  },
+  {
+    "image": "assets/event_crisis.webp",
+    "prompt": "Medieval historical engraving, shadowy armored soldiers with spears standing outside fortress stone gates, dark smoke in sky, Albrecht Dürer woodcut style, dense cross-hatching line art, sepia monochrome ink on weathered aged paper, card illustration. No colors or 3D."
+  },
+  {
+    "image": "assets/event_market.webp",
+    "prompt": "Antique woodcut illustration, a bustling historic artisan workshop, blacksmith hammering iron on anvil, barrels and scales, Renaissance block print style, dark ink lines on rough textured vintage parchment, moody atmospheric lighting. No photorealism or modern items."
+  },
+  {
+    "image": "assets/event_fortune.webp",
+    "prompt": "Antique vintage engraving, a wanderer opening a carved stone chest under a piercing beam of divine light, woodcut block print style, fine cross-hatching, sepia ink on aged paper, high contrast. No bright neon colors or modern art."
+  }
+]

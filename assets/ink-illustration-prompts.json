@@ -1,0 +1,22 @@
+[
+  {
+    "image": "assets/ink_cover.webp",
+    "tool": "built-in image_gen",
+    "prompt": "A lone traveler arriving at a misty ancient city beyond a river, distant mountains dissolving into blank paper. Traditional Chinese ink wash painting on off-white rice paper, black and gray brushwork, diluted ink blooms, feathered edges, generous negative space. Horizontal 16:9; subjects in central band for 140px mobile crop. No text, seals, borders, etched cross-hatching, or modern objects."
+  },
+  {
+    "image": "assets/ink_crisis.webp",
+    "tool": "built-in image_gen",
+    "prompt": "Travelers stopped before an ancient stone city gate, silhouettes of guards holding spears emerging from mist. Traditional Chinese ink wash painting on off-white rice paper, black and gray brushwork, diluted ink blooms, feathered edges, generous negative space. Horizontal 16:9; subjects in central band for 140px mobile crop. No text, seals, borders, etched cross-hatching, or modern objects."
+  },
+  {
+    "image": "assets/ink_market.webp",
+    "tool": "built-in image_gen",
+    "prompt": "A small historic town street with an artisan workshop, a blacksmith at an anvil and a few market stalls. Traditional Chinese ink wash painting on off-white rice paper, black and gray brushwork, diluted ink blooms, feathered edges, generous negative space. Horizontal 16:9; subjects in central band for 140px mobile crop. No text, seals, borders, etched cross-hatching, or modern objects."
+  },
+  {
+    "image": "assets/ink_fortune.webp",
+    "tool": "built-in image_gen",
+    "prompt": "A lone traveler discovering an old chest beside a tree under a soft shaft of light. Traditional Chinese ink wash painting on off-white rice paper, black and gray brushwork, diluted ink blooms, feathered edges, generous negative space. Horizontal 16:9; subjects in central band for 140px mobile crop. No text, seals, borders, etched cross-hatching, or modern objects."
+  }
+]

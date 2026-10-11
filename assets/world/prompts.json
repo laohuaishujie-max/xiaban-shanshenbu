@@ -1,0 +1,47 @@
+[
+  {
+    "image": "assets/world/East_Asia.webp",
+    "prompt": "Horizontal 16:9 historical narrative game illustration. East Asian town with tiled roofs, a river bridge, market stalls and small travelers. Traditional monochrome ink wash painting on warm off-white rice paper, expressive black and gray brushwork, diluted ink blooms, soft feathered edges, elegant generous negative space. Panoramic scene, main architecture and figures in central horizontal band for a shallow 140px mobile card crop. No text, seals, borders, cross-hatching, or sepia engraving.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "image": "assets/world/Mediterranean.webp",
+    "prompt": "Horizontal 16:9 historical narrative game illustration. Mediterranean coastal town with stone arches, simple plaster houses, a harbor and a small sailing vessel, no Asian roofs. Traditional monochrome ink wash painting on warm off-white rice paper, expressive black and gray brushwork, diluted ink blooms, soft feathered edges, elegant generous negative space. Panoramic scene, main architecture and figures in central horizontal band for a shallow 140px mobile card crop. No text, seals, borders, cross-hatching, or sepia engraving.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "image": "assets/world/Middle_East.webp",
+    "prompt": "Horizontal 16:9 historical narrative game illustration. Middle Eastern oasis settlement with mud brick courtyard houses, palms and travelers at a caravan market, no Asian roofs. Traditional monochrome ink wash painting on warm off-white rice paper, expressive black and gray brushwork, diluted ink blooms, soft feathered edges, elegant generous negative space. Panoramic scene, main architecture and figures in central horizontal band for a shallow 140px mobile card crop. No text, seals, borders, cross-hatching, or sepia engraving.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "image": "assets/world/Americas.webp",
+    "prompt": "Horizontal 16:9 historical narrative game illustration. Indigenous American highland settlement with terraced fields, simple stone and adobe buildings, woven textiles and small human figures, no European or Asian buildings. Traditional monochrome ink wash painting on warm off-white rice paper, expressive black and gray brushwork, diluted ink blooms, soft feathered edges, elegant generous negative space. Panoramic scene, main architecture and figures in central horizontal band for a shallow 140px mobile card crop. No text, seals, borders, cross-hatching, or sepia engraving.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "image": "assets/world/Nordic.webp",
+    "prompt": "Horizontal 16:9 historical narrative game illustration. Nordic fjord settlement with timber longhouses, steep mountains and a small wooden boat, no Asian buildings. Traditional monochrome ink wash painting on warm off-white rice paper, expressive black and gray brushwork, diluted ink blooms, soft feathered edges, elegant generous negative space. Panoramic scene, main architecture and figures in central horizontal band for a shallow 140px mobile card crop. No text, seals, borders, cross-hatching, or sepia engraving.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "image": "assets/world/South_Asia.webp",
+    "prompt": "Horizontal 16:9 historical narrative game illustration. South Asian river settlement with shaded courtyard buildings, carved stone steps to water, cloth market awnings and small travelers, no East Asian roofs. Traditional monochrome ink wash painting on warm off-white rice paper, expressive black and gray brushwork, diluted ink blooms, soft feathered edges, elegant generous negative space. Panoramic scene, main architecture and figures in central horizontal band for a shallow 140px mobile card crop. No text, seals, borders, cross-hatching, or sepia engraving.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "image": "assets/world/PRIMITIVE.webp",
+    "prompt": "Horizontal 16:9 historical narrative game illustration. Prehistoric human campsite by a river, simple hide shelters, hunter gatherers and a distant herd. Absolutely no permanent towns, writing, metal or modern items. Traditional monochrome ink wash painting on warm off-white rice paper, expressive black and gray brushwork, diluted ink blooms, soft feathered edges, elegant generous negative space. Panoramic scene, main architecture and figures in central horizontal band for a shallow 140px mobile card crop. No text, seals, borders, cross-hatching, or sepia engraving.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "image": "assets/world/INDUSTRIAL.webp",
+    "prompt": "Horizontal 16:9 historical narrative game illustration. Nineteenth century industrial district with brick workshops, smokestacks, a distant steam train and workers in period clothing. No pagodas or medieval fortresses. Traditional monochrome ink wash painting on warm off-white rice paper, expressive black and gray brushwork, diluted ink blooms, soft feathered edges, elegant generous negative space. Panoramic scene, main architecture and figures in central horizontal band for a shallow 140px mobile card crop. No text, seals, borders, cross-hatching, or sepia engraving.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "image": "assets/world/MODERN.webp",
+    "prompt": "Horizontal 16:9 historical narrative game illustration. Early twentieth century city street with an electric tram, shop fronts and pedestrians in period clothes. No skyscrapers, contemporary cars or neon signs. Traditional monochrome ink wash painting on warm off-white rice paper, expressive black and gray brushwork, diluted ink blooms, soft feathered edges, elegant generous negative space. Panoramic scene, main architecture and figures in central horizontal band for a shallow 140px mobile card crop. No text, seals, borders, cross-hatching, or sepia engraving.",
+    "tool": "built-in image_gen"
+  }
+]

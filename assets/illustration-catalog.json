@@ -1,0 +1,1757 @@
+[
+  {
+    "id": "tang_1",
+    "era": "tang",
+    "year": "公元 750 年",
+    "title": "街头盘查",
+    "image": "assets/events/tang_1.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, local guards questioning a lone foreign traveler at the settlement entrance, setting: 大唐长安",
+    "artType": "scales"
+  },
+  {
+    "id": "tang_2",
+    "era": "tang",
+    "year": "公元 750 年",
+    "title": "西市谋生",
+    "image": "assets/events/tang_2.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, workers and merchants exchanging supplies at a bustling local market, setting: 大唐长安",
+    "artType": "coins"
+  },
+  {
+    "id": "tang_3",
+    "era": "tang",
+    "year": "公元 750 年",
+    "title": "坊间疫病",
+    "image": "assets/events/tang_3.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a healer caring for sick villagers with a bowl of herbs, setting: 大唐长安",
+    "artType": "medicine"
+  },
+  {
+    "id": "tang_4",
+    "era": "tang",
+    "year": "公元 750 年",
+    "title": "曲江诗会",
+    "image": "assets/events/tang_4.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a traveler sharing knowledge before an attentive gathering, setting: 大唐长安",
+    "artType": "book"
+  },
+  {
+    "id": "tang_5",
+    "era": "tang",
+    "year": "公元 750 年",
+    "title": "官府征役",
+    "image": "assets/events/tang_5.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, villagers working together on a road and granary, setting: 大唐长安",
+    "artType": "book"
+  },
+  {
+    "id": "tang_6",
+    "era": "tang",
+    "year": "公元 750 年",
+    "title": "夜路劫匪",
+    "image": "assets/events/tang_6.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, armed bandits ambushing a traveler on a deserted path, setting: 大唐长安",
+    "artType": "swords"
+  },
+  {
+    "id": "tang_7",
+    "era": "tang",
+    "year": "公元 750 年",
+    "title": "隐士问道",
+    "image": "assets/events/tang_7.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, an elderly mentor passing a scroll to a young traveler, setting: 大唐长安",
+    "artType": "book"
+  },
+  {
+    "id": "tang_8",
+    "era": "tang",
+    "year": "公元 750 年",
+    "title": "长安立足",
+    "image": "assets/events/tang_8.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大唐长安",
+    "artType": "hourglass"
+  },
+  {
+    "id": "england_1",
+    "era": "england",
+    "year": "公元 1348 年",
+    "title": "封城之前",
+    "image": "assets/events/england_1.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, local guards questioning a lone foreign traveler at the settlement entrance, setting: 英格兰 · 约克",
+    "artType": "scales"
+  },
+  {
+    "id": "england_2",
+    "era": "england",
+    "year": "公元 1348 年",
+    "title": "面包与铜钱",
+    "image": "assets/events/england_2.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, workers and merchants exchanging supplies at a bustling local market, setting: 英格兰 · 约克",
+    "artType": "coins"
+  },
+  {
+    "id": "england_3",
+    "era": "england",
+    "year": "公元 1348 年",
+    "title": "黑死病阴影",
+    "image": "assets/events/england_3.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a healer caring for sick villagers with a bowl of herbs, setting: 英格兰 · 约克",
+    "artType": "medicine"
+  },
+  {
+    "id": "england_4",
+    "era": "england",
+    "year": "公元 1348 年",
+    "title": "修道院之门",
+    "image": "assets/events/england_4.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a traveler sharing knowledge before an attentive gathering, setting: 英格兰 · 约克",
+    "artType": "book"
+  },
+  {
+    "id": "england_5",
+    "era": "england",
+    "year": "公元 1348 年",
+    "title": "领主的劳役",
+    "image": "assets/events/england_5.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, villagers working together on a road and granary, setting: 英格兰 · 约克",
+    "artType": "book"
+  },
+  {
+    "id": "england_6",
+    "era": "england",
+    "year": "公元 1348 年",
+    "title": "荒野盗匪",
+    "image": "assets/events/england_6.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, armed bandits ambushing a traveler on a deserted path, setting: 英格兰 · 约克",
+    "artType": "swords"
+  },
+  {
+    "id": "england_7",
+    "era": "england",
+    "year": "公元 1348 年",
+    "title": "草药师的试炼",
+    "image": "assets/events/england_7.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, an elderly mentor passing a scroll to a young traveler, setting: 英格兰 · 约克",
+    "artType": "book"
+  },
+  {
+    "id": "england_8",
+    "era": "england",
+    "year": "公元 1348 年",
+    "title": "疫后的微光",
+    "image": "assets/events/england_8.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 英格兰 · 约克",
+    "artType": "hourglass"
+  },
+  {
+    "id": "rome_1",
+    "era": "rome",
+    "year": "公元 180 年",
+    "title": "帝国的陌生人",
+    "image": "assets/events/rome_1.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, local guards questioning a lone foreign traveler at the settlement entrance, setting: 古罗马 · 罗马城",
+    "artType": "scales"
+  },
+  {
+    "id": "rome_2",
+    "era": "rome",
+    "year": "公元 180 年",
+    "title": "市场求生",
+    "image": "assets/events/rome_2.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, workers and merchants exchanging supplies at a bustling local market, setting: 古罗马 · 罗马城",
+    "artType": "coins"
+  },
+  {
+    "id": "rome_3",
+    "era": "rome",
+    "year": "公元 180 年",
+    "title": "污水与热病",
+    "image": "assets/events/rome_3.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a healer caring for sick villagers with a bowl of herbs, setting: 古罗马 · 罗马城",
+    "artType": "medicine"
+  },
+  {
+    "id": "rome_4",
+    "era": "rome",
+    "year": "公元 180 年",
+    "title": "贵族的宴席",
+    "image": "assets/events/rome_4.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a traveler sharing knowledge before an attentive gathering, setting: 古罗马 · 罗马城",
+    "artType": "book"
+  },
+  {
+    "id": "rome_5",
+    "era": "rome",
+    "year": "公元 180 年",
+    "title": "竞技场征召",
+    "image": "assets/events/rome_5.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, villagers working together on a road and granary, setting: 古罗马 · 罗马城",
+    "artType": "book"
+  },
+  {
+    "id": "rome_6",
+    "era": "rome",
+    "year": "公元 180 年",
+    "title": "台伯河伏击",
+    "image": "assets/events/rome_6.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, armed bandits ambushing a traveler on a deserted path, setting: 古罗马 · 罗马城",
+    "artType": "swords"
+  },
+  {
+    "id": "rome_7",
+    "era": "rome",
+    "year": "公元 180 年",
+    "title": "医师的馈赠",
+    "image": "assets/events/rome_7.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, an elderly mentor passing a scroll to a young traveler, setting: 古罗马 · 罗马城",
+    "artType": "book"
+  },
+  {
+    "id": "rome_8",
+    "era": "rome",
+    "year": "公元 180 年",
+    "title": "罗马的一席之地",
+    "image": "assets/events/rome_8.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古罗马 · 罗马城",
+    "artType": "hourglass"
+  },
+  {
+    "id": "PRIMITIVE_1",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "陌生人的来历",
+    "image": "assets/events/PRIMITIVE_1.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, local guards questioning a lone foreign traveler at the settlement entrance, setting: 原始时代",
+    "artType": "scales"
+  },
+  {
+    "id": "PRIMITIVE_2",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "今日的生计",
+    "image": "assets/events/PRIMITIVE_2.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, workers and merchants exchanging supplies at a bustling local market, setting: 原始时代",
+    "artType": "coins"
+  },
+  {
+    "id": "PRIMITIVE_3",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "病痛的阴影",
+    "image": "assets/events/PRIMITIVE_3.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a healer caring for sick villagers with a bowl of herbs, setting: 原始时代",
+    "artType": "medicine"
+  },
+  {
+    "id": "PRIMITIVE_4",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "人群中的声望",
+    "image": "assets/events/PRIMITIVE_4.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a traveler sharing knowledge before an attentive gathering, setting: 原始时代",
+    "artType": "book"
+  },
+  {
+    "id": "PRIMITIVE_5",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "集体的劳作",
+    "image": "assets/events/PRIMITIVE_5.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, villagers working together on a road and granary, setting: 原始时代",
+    "artType": "book"
+  },
+  {
+    "id": "PRIMITIVE_6",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "归途遇袭",
+    "image": "assets/events/PRIMITIVE_6.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, armed bandits ambushing a traveler on a deserted path, setting: 原始时代",
+    "artType": "swords"
+  },
+  {
+    "id": "PRIMITIVE_7",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "长者的智慧",
+    "image": "assets/events/PRIMITIVE_7.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, an elderly mentor passing a scroll to a young traveler, setting: 原始时代",
+    "artType": "book"
+  },
+  {
+    "id": "PRIMITIVE_8",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "新的立足之地",
+    "image": "assets/events/PRIMITIVE_8.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "hourglass"
+  },
+  {
+    "id": "BRONZE_1",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "陌生人的来历",
+    "image": "assets/events/BRONZE_1.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, local guards questioning a lone foreign traveler at the settlement entrance, setting: 青铜与奴隶城邦",
+    "artType": "scales"
+  },
+  {
+    "id": "BRONZE_2",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "今日的生计",
+    "image": "assets/events/BRONZE_2.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, workers and merchants exchanging supplies at a bustling local market, setting: 青铜与奴隶城邦",
+    "artType": "coins"
+  },
+  {
+    "id": "BRONZE_3",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "病痛的阴影",
+    "image": "assets/events/BRONZE_3.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a healer caring for sick villagers with a bowl of herbs, setting: 青铜与奴隶城邦",
+    "artType": "medicine"
+  },
+  {
+    "id": "BRONZE_4",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "人群中的声望",
+    "image": "assets/events/BRONZE_4.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a traveler sharing knowledge before an attentive gathering, setting: 青铜与奴隶城邦",
+    "artType": "book"
+  },
+  {
+    "id": "BRONZE_5",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "集体的劳作",
+    "image": "assets/events/BRONZE_5.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, villagers working together on a road and granary, setting: 青铜与奴隶城邦",
+    "artType": "book"
+  },
+  {
+    "id": "BRONZE_6",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "归途遇袭",
+    "image": "assets/events/BRONZE_6.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, armed bandits ambushing a traveler on a deserted path, setting: 青铜与奴隶城邦",
+    "artType": "swords"
+  },
+  {
+    "id": "BRONZE_7",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "长者的智慧",
+    "image": "assets/events/BRONZE_7.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, an elderly mentor passing a scroll to a young traveler, setting: 青铜与奴隶城邦",
+    "artType": "book"
+  },
+  {
+    "id": "BRONZE_8",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "新的立足之地",
+    "image": "assets/events/BRONZE_8.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "hourglass"
+  },
+  {
+    "id": "CLASSICAL_1",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "陌生人的来历",
+    "image": "assets/events/CLASSICAL_1.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, local guards questioning a lone foreign traveler at the settlement entrance, setting: 古典帝国",
+    "artType": "scales"
+  },
+  {
+    "id": "CLASSICAL_2",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "今日的生计",
+    "image": "assets/events/CLASSICAL_2.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, workers and merchants exchanging supplies at a bustling local market, setting: 古典帝国",
+    "artType": "coins"
+  },
+  {
+    "id": "CLASSICAL_3",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "病痛的阴影",
+    "image": "assets/events/CLASSICAL_3.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a healer caring for sick villagers with a bowl of herbs, setting: 古典帝国",
+    "artType": "medicine"
+  },
+  {
+    "id": "CLASSICAL_4",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "人群中的声望",
+    "image": "assets/events/CLASSICAL_4.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a traveler sharing knowledge before an attentive gathering, setting: 古典帝国",
+    "artType": "book"
+  },
+  {
+    "id": "CLASSICAL_5",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "集体的劳作",
+    "image": "assets/events/CLASSICAL_5.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, villagers working together on a road and granary, setting: 古典帝国",
+    "artType": "book"
+  },
+  {
+    "id": "CLASSICAL_6",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "归途遇袭",
+    "image": "assets/events/CLASSICAL_6.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, armed bandits ambushing a traveler on a deserted path, setting: 古典帝国",
+    "artType": "swords"
+  },
+  {
+    "id": "CLASSICAL_7",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "长者的智慧",
+    "image": "assets/events/CLASSICAL_7.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, an elderly mentor passing a scroll to a young traveler, setting: 古典帝国",
+    "artType": "book"
+  },
+  {
+    "id": "CLASSICAL_8",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "新的立足之地",
+    "image": "assets/events/CLASSICAL_8.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "hourglass"
+  },
+  {
+    "id": "MEDIEVAL_1",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "陌生人的来历",
+    "image": "assets/events/MEDIEVAL_1.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, local guards questioning a lone foreign traveler at the settlement entrance, setting: 封建中世纪",
+    "artType": "scales"
+  },
+  {
+    "id": "MEDIEVAL_2",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "今日的生计",
+    "image": "assets/events/MEDIEVAL_2.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, workers and merchants exchanging supplies at a bustling local market, setting: 封建中世纪",
+    "artType": "coins"
+  },
+  {
+    "id": "MEDIEVAL_3",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "病痛的阴影",
+    "image": "assets/events/MEDIEVAL_3.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a healer caring for sick villagers with a bowl of herbs, setting: 封建中世纪",
+    "artType": "medicine"
+  },
+  {
+    "id": "MEDIEVAL_4",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "人群中的声望",
+    "image": "assets/events/MEDIEVAL_4.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a traveler sharing knowledge before an attentive gathering, setting: 封建中世纪",
+    "artType": "book"
+  },
+  {
+    "id": "MEDIEVAL_5",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "集体的劳作",
+    "image": "assets/events/MEDIEVAL_5.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, villagers working together on a road and granary, setting: 封建中世纪",
+    "artType": "book"
+  },
+  {
+    "id": "MEDIEVAL_6",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "归途遇袭",
+    "image": "assets/events/MEDIEVAL_6.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, armed bandits ambushing a traveler on a deserted path, setting: 封建中世纪",
+    "artType": "swords"
+  },
+  {
+    "id": "MEDIEVAL_7",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "长者的智慧",
+    "image": "assets/events/MEDIEVAL_7.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, an elderly mentor passing a scroll to a young traveler, setting: 封建中世纪",
+    "artType": "book"
+  },
+  {
+    "id": "MEDIEVAL_8",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "新的立足之地",
+    "image": "assets/events/MEDIEVAL_8.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "hourglass"
+  },
+  {
+    "id": "EXPLORATION_1",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "陌生人的来历",
+    "image": "assets/events/EXPLORATION_1.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, local guards questioning a lone foreign traveler at the settlement entrance, setting: 大航海与明清",
+    "artType": "scales"
+  },
+  {
+    "id": "EXPLORATION_2",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "今日的生计",
+    "image": "assets/events/EXPLORATION_2.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, workers and merchants exchanging supplies at a bustling local market, setting: 大航海与明清",
+    "artType": "coins"
+  },
+  {
+    "id": "EXPLORATION_3",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "病痛的阴影",
+    "image": "assets/events/EXPLORATION_3.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a healer caring for sick villagers with a bowl of herbs, setting: 大航海与明清",
+    "artType": "medicine"
+  },
+  {
+    "id": "EXPLORATION_4",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "人群中的声望",
+    "image": "assets/events/EXPLORATION_4.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a traveler sharing knowledge before an attentive gathering, setting: 大航海与明清",
+    "artType": "book"
+  },
+  {
+    "id": "EXPLORATION_5",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "集体的劳作",
+    "image": "assets/events/EXPLORATION_5.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, villagers working together on a road and granary, setting: 大航海与明清",
+    "artType": "book"
+  },
+  {
+    "id": "EXPLORATION_6",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "归途遇袭",
+    "image": "assets/events/EXPLORATION_6.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, armed bandits ambushing a traveler on a deserted path, setting: 大航海与明清",
+    "artType": "swords"
+  },
+  {
+    "id": "EXPLORATION_7",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "长者的智慧",
+    "image": "assets/events/EXPLORATION_7.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, an elderly mentor passing a scroll to a young traveler, setting: 大航海与明清",
+    "artType": "book"
+  },
+  {
+    "id": "EXPLORATION_8",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "新的立足之地",
+    "image": "assets/events/EXPLORATION_8.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "hourglass"
+  },
+  {
+    "id": "INDUSTRIAL_1",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "陌生人的来历",
+    "image": "assets/events/INDUSTRIAL_1.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, local guards questioning a lone foreign traveler at the settlement entrance, setting: 工业革命",
+    "artType": "scales"
+  },
+  {
+    "id": "INDUSTRIAL_2",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "今日的生计",
+    "image": "assets/events/INDUSTRIAL_2.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, workers and merchants exchanging supplies at a bustling local market, setting: 工业革命",
+    "artType": "coins"
+  },
+  {
+    "id": "INDUSTRIAL_3",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "病痛的阴影",
+    "image": "assets/events/INDUSTRIAL_3.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a healer caring for sick villagers with a bowl of herbs, setting: 工业革命",
+    "artType": "medicine"
+  },
+  {
+    "id": "INDUSTRIAL_4",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "人群中的声望",
+    "image": "assets/events/INDUSTRIAL_4.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a traveler sharing knowledge before an attentive gathering, setting: 工业革命",
+    "artType": "book"
+  },
+  {
+    "id": "INDUSTRIAL_5",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "集体的劳作",
+    "image": "assets/events/INDUSTRIAL_5.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, villagers working together on a road and granary, setting: 工业革命",
+    "artType": "book"
+  },
+  {
+    "id": "INDUSTRIAL_6",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "归途遇袭",
+    "image": "assets/events/INDUSTRIAL_6.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, armed bandits ambushing a traveler on a deserted path, setting: 工业革命",
+    "artType": "swords"
+  },
+  {
+    "id": "INDUSTRIAL_7",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "长者的智慧",
+    "image": "assets/events/INDUSTRIAL_7.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, an elderly mentor passing a scroll to a young traveler, setting: 工业革命",
+    "artType": "book"
+  },
+  {
+    "id": "INDUSTRIAL_8",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "新的立足之地",
+    "image": "assets/events/INDUSTRIAL_8.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "hourglass"
+  },
+  {
+    "id": "MODERN_1",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "陌生人的来历",
+    "image": "assets/events/MODERN_1.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, local guards questioning a lone foreign traveler at the settlement entrance, setting: 20世纪近现代",
+    "artType": "scales"
+  },
+  {
+    "id": "MODERN_2",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "今日的生计",
+    "image": "assets/events/MODERN_2.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, workers and merchants exchanging supplies at a bustling local market, setting: 20世纪近现代",
+    "artType": "coins"
+  },
+  {
+    "id": "MODERN_3",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "病痛的阴影",
+    "image": "assets/events/MODERN_3.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a healer caring for sick villagers with a bowl of herbs, setting: 20世纪近现代",
+    "artType": "medicine"
+  },
+  {
+    "id": "MODERN_4",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "人群中的声望",
+    "image": "assets/events/MODERN_4.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a traveler sharing knowledge before an attentive gathering, setting: 20世纪近现代",
+    "artType": "book"
+  },
+  {
+    "id": "MODERN_5",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "集体的劳作",
+    "image": "assets/events/MODERN_5.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, villagers working together on a road and granary, setting: 20世纪近现代",
+    "artType": "book"
+  },
+  {
+    "id": "MODERN_6",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "归途遇袭",
+    "image": "assets/events/MODERN_6.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, armed bandits ambushing a traveler on a deserted path, setting: 20世纪近现代",
+    "artType": "swords"
+  },
+  {
+    "id": "MODERN_7",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "长者的智慧",
+    "image": "assets/events/MODERN_7.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, an elderly mentor passing a scroll to a young traveler, setting: 20世纪近现代",
+    "artType": "book"
+  },
+  {
+    "id": "MODERN_8",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "新的立足之地",
+    "image": "assets/events/MODERN_8.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "hourglass"
+  },
+  {
+    "id": "PRIMITIVE_random_stranger",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "雨中的陌生人",
+    "image": "assets/events/PRIMITIVE_random_stranger.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "book"
+  },
+  {
+    "id": "PRIMITIVE_random_venture",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "远行的本钱",
+    "image": "assets/events/PRIMITIVE_random_venture.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "coins"
+  },
+  {
+    "id": "PRIMITIVE_random_quarrel",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "街巷里的争执",
+    "image": "assets/events/PRIMITIVE_random_quarrel.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "swords"
+  },
+  {
+    "id": "PRIMITIVE_random_mentor",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "旧书与旧故事",
+    "image": "assets/events/PRIMITIVE_random_mentor.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "book"
+  },
+  {
+    "id": "PRIMITIVE_random_weather",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "风雨前的归途",
+    "image": "assets/events/PRIMITIVE_random_weather.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "medicine"
+  },
+  {
+    "id": "PRIMITIVE_random_lost",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "失物与归人",
+    "image": "assets/events/PRIMITIVE_random_lost.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "coins"
+  },
+  {
+    "id": "PRIMITIVE_random_rest",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "身体的警告",
+    "image": "assets/events/PRIMITIVE_random_rest.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "medicine"
+  },
+  {
+    "id": "PRIMITIVE_random_invitation",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "一席之缘",
+    "image": "assets/events/PRIMITIVE_random_invitation.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "book"
+  },
+  {
+    "id": "PRIMITIVE_random_region_East_Asia",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "渡口的账册",
+    "regionId": "East_Asia",
+    "image": "assets/events/PRIMITIVE_random_region_East_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "coins"
+  },
+  {
+    "id": "PRIMITIVE_random_region_Mediterranean",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "海岸上的货船",
+    "regionId": "Mediterranean",
+    "image": "assets/events/PRIMITIVE_random_region_Mediterranean.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "coins"
+  },
+  {
+    "id": "PRIMITIVE_random_region_Middle_East",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "绿洲的水渠",
+    "regionId": "Middle_East",
+    "image": "assets/events/PRIMITIVE_random_region_Middle_East.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "coins"
+  },
+  {
+    "id": "PRIMITIVE_random_region_Americas",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "高地的收获",
+    "regionId": "Americas",
+    "image": "assets/events/PRIMITIVE_random_region_Americas.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "coins"
+  },
+  {
+    "id": "PRIMITIVE_random_region_Nordic",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "峡湾的船只",
+    "regionId": "Nordic",
+    "image": "assets/events/PRIMITIVE_random_region_Nordic.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "coins"
+  },
+  {
+    "id": "PRIMITIVE_random_region_South_Asia",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "河岸的布市",
+    "regionId": "South_Asia",
+    "image": "assets/events/PRIMITIVE_random_region_South_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "coins"
+  },
+  {
+    "id": "PRIMITIVE_random_epoch",
+    "era": "PRIMITIVE",
+    "year": "随本局年份",
+    "title": "部落的冬粮",
+    "image": "assets/events/PRIMITIVE_random_epoch.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 原始时代",
+    "artType": "book"
+  },
+  {
+    "id": "BRONZE_random_stranger",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "雨中的陌生人",
+    "image": "assets/events/BRONZE_random_stranger.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "book"
+  },
+  {
+    "id": "BRONZE_random_venture",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "远行的本钱",
+    "image": "assets/events/BRONZE_random_venture.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "coins"
+  },
+  {
+    "id": "BRONZE_random_quarrel",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "街巷里的争执",
+    "image": "assets/events/BRONZE_random_quarrel.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "swords"
+  },
+  {
+    "id": "BRONZE_random_mentor",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "旧书与旧故事",
+    "image": "assets/events/BRONZE_random_mentor.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "book"
+  },
+  {
+    "id": "BRONZE_random_weather",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "风雨前的归途",
+    "image": "assets/events/BRONZE_random_weather.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "medicine"
+  },
+  {
+    "id": "BRONZE_random_lost",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "失物与归人",
+    "image": "assets/events/BRONZE_random_lost.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "coins"
+  },
+  {
+    "id": "BRONZE_random_rest",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "身体的警告",
+    "image": "assets/events/BRONZE_random_rest.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "medicine"
+  },
+  {
+    "id": "BRONZE_random_invitation",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "一席之缘",
+    "image": "assets/events/BRONZE_random_invitation.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "book"
+  },
+  {
+    "id": "BRONZE_random_region_East_Asia",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "渡口的账册",
+    "regionId": "East_Asia",
+    "image": "assets/events/BRONZE_random_region_East_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "coins"
+  },
+  {
+    "id": "BRONZE_random_region_Mediterranean",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "海岸上的货船",
+    "regionId": "Mediterranean",
+    "image": "assets/events/BRONZE_random_region_Mediterranean.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "coins"
+  },
+  {
+    "id": "BRONZE_random_region_Middle_East",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "绿洲的水渠",
+    "regionId": "Middle_East",
+    "image": "assets/events/BRONZE_random_region_Middle_East.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "coins"
+  },
+  {
+    "id": "BRONZE_random_region_Americas",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "高地的收获",
+    "regionId": "Americas",
+    "image": "assets/events/BRONZE_random_region_Americas.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "coins"
+  },
+  {
+    "id": "BRONZE_random_region_Nordic",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "峡湾的船只",
+    "regionId": "Nordic",
+    "image": "assets/events/BRONZE_random_region_Nordic.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "coins"
+  },
+  {
+    "id": "BRONZE_random_region_South_Asia",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "河岸的布市",
+    "regionId": "South_Asia",
+    "image": "assets/events/BRONZE_random_region_South_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "coins"
+  },
+  {
+    "id": "BRONZE_random_epoch",
+    "era": "BRONZE",
+    "year": "随本局年份",
+    "title": "仓廪的分配",
+    "image": "assets/events/BRONZE_random_epoch.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 青铜与奴隶城邦",
+    "artType": "book"
+  },
+  {
+    "id": "CLASSICAL_random_stranger",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "雨中的陌生人",
+    "image": "assets/events/CLASSICAL_random_stranger.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "book"
+  },
+  {
+    "id": "CLASSICAL_random_venture",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "远行的本钱",
+    "image": "assets/events/CLASSICAL_random_venture.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "coins"
+  },
+  {
+    "id": "CLASSICAL_random_quarrel",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "街巷里的争执",
+    "image": "assets/events/CLASSICAL_random_quarrel.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "swords"
+  },
+  {
+    "id": "CLASSICAL_random_mentor",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "旧书与旧故事",
+    "image": "assets/events/CLASSICAL_random_mentor.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "book"
+  },
+  {
+    "id": "CLASSICAL_random_weather",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "风雨前的归途",
+    "image": "assets/events/CLASSICAL_random_weather.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "medicine"
+  },
+  {
+    "id": "CLASSICAL_random_lost",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "失物与归人",
+    "image": "assets/events/CLASSICAL_random_lost.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "coins"
+  },
+  {
+    "id": "CLASSICAL_random_rest",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "身体的警告",
+    "image": "assets/events/CLASSICAL_random_rest.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "medicine"
+  },
+  {
+    "id": "CLASSICAL_random_invitation",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "一席之缘",
+    "image": "assets/events/CLASSICAL_random_invitation.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "book"
+  },
+  {
+    "id": "CLASSICAL_random_region_East_Asia",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "渡口的账册",
+    "regionId": "East_Asia",
+    "image": "assets/events/CLASSICAL_random_region_East_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "coins"
+  },
+  {
+    "id": "CLASSICAL_random_region_Mediterranean",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "海岸上的货船",
+    "regionId": "Mediterranean",
+    "image": "assets/events/CLASSICAL_random_region_Mediterranean.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "coins"
+  },
+  {
+    "id": "CLASSICAL_random_region_Middle_East",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "绿洲的水渠",
+    "regionId": "Middle_East",
+    "image": "assets/events/CLASSICAL_random_region_Middle_East.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "coins"
+  },
+  {
+    "id": "CLASSICAL_random_region_Americas",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "高地的收获",
+    "regionId": "Americas",
+    "image": "assets/events/CLASSICAL_random_region_Americas.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "coins"
+  },
+  {
+    "id": "CLASSICAL_random_region_Nordic",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "峡湾的船只",
+    "regionId": "Nordic",
+    "image": "assets/events/CLASSICAL_random_region_Nordic.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "coins"
+  },
+  {
+    "id": "CLASSICAL_random_region_South_Asia",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "河岸的布市",
+    "regionId": "South_Asia",
+    "image": "assets/events/CLASSICAL_random_region_South_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "coins"
+  },
+  {
+    "id": "CLASSICAL_random_epoch",
+    "era": "CLASSICAL",
+    "year": "随本局年份",
+    "title": "道路与远客",
+    "image": "assets/events/CLASSICAL_random_epoch.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 古典帝国",
+    "artType": "book"
+  },
+  {
+    "id": "MEDIEVAL_random_stranger",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "雨中的陌生人",
+    "image": "assets/events/MEDIEVAL_random_stranger.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "book"
+  },
+  {
+    "id": "MEDIEVAL_random_venture",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "远行的本钱",
+    "image": "assets/events/MEDIEVAL_random_venture.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "coins"
+  },
+  {
+    "id": "MEDIEVAL_random_quarrel",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "街巷里的争执",
+    "image": "assets/events/MEDIEVAL_random_quarrel.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "swords"
+  },
+  {
+    "id": "MEDIEVAL_random_mentor",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "旧书与旧故事",
+    "image": "assets/events/MEDIEVAL_random_mentor.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "book"
+  },
+  {
+    "id": "MEDIEVAL_random_weather",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "风雨前的归途",
+    "image": "assets/events/MEDIEVAL_random_weather.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "medicine"
+  },
+  {
+    "id": "MEDIEVAL_random_lost",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "失物与归人",
+    "image": "assets/events/MEDIEVAL_random_lost.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "coins"
+  },
+  {
+    "id": "MEDIEVAL_random_rest",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "身体的警告",
+    "image": "assets/events/MEDIEVAL_random_rest.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "medicine"
+  },
+  {
+    "id": "MEDIEVAL_random_invitation",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "一席之缘",
+    "image": "assets/events/MEDIEVAL_random_invitation.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "book"
+  },
+  {
+    "id": "MEDIEVAL_random_region_East_Asia",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "渡口的账册",
+    "regionId": "East_Asia",
+    "image": "assets/events/MEDIEVAL_random_region_East_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "coins"
+  },
+  {
+    "id": "MEDIEVAL_random_region_Mediterranean",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "海岸上的货船",
+    "regionId": "Mediterranean",
+    "image": "assets/events/MEDIEVAL_random_region_Mediterranean.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "coins"
+  },
+  {
+    "id": "MEDIEVAL_random_region_Middle_East",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "绿洲的水渠",
+    "regionId": "Middle_East",
+    "image": "assets/events/MEDIEVAL_random_region_Middle_East.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "coins"
+  },
+  {
+    "id": "MEDIEVAL_random_region_Americas",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "高地的收获",
+    "regionId": "Americas",
+    "image": "assets/events/MEDIEVAL_random_region_Americas.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "coins"
+  },
+  {
+    "id": "MEDIEVAL_random_region_Nordic",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "峡湾的船只",
+    "regionId": "Nordic",
+    "image": "assets/events/MEDIEVAL_random_region_Nordic.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "coins"
+  },
+  {
+    "id": "MEDIEVAL_random_region_South_Asia",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "河岸的布市",
+    "regionId": "South_Asia",
+    "image": "assets/events/MEDIEVAL_random_region_South_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "coins"
+  },
+  {
+    "id": "MEDIEVAL_random_epoch",
+    "era": "MEDIEVAL",
+    "year": "随本局年份",
+    "title": "领地的修桥",
+    "image": "assets/events/MEDIEVAL_random_epoch.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 封建中世纪",
+    "artType": "book"
+  },
+  {
+    "id": "EXPLORATION_random_stranger",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "雨中的陌生人",
+    "image": "assets/events/EXPLORATION_random_stranger.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "book"
+  },
+  {
+    "id": "EXPLORATION_random_venture",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "远行的本钱",
+    "image": "assets/events/EXPLORATION_random_venture.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "coins"
+  },
+  {
+    "id": "EXPLORATION_random_quarrel",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "街巷里的争执",
+    "image": "assets/events/EXPLORATION_random_quarrel.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "swords"
+  },
+  {
+    "id": "EXPLORATION_random_mentor",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "旧书与旧故事",
+    "image": "assets/events/EXPLORATION_random_mentor.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "book"
+  },
+  {
+    "id": "EXPLORATION_random_weather",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "风雨前的归途",
+    "image": "assets/events/EXPLORATION_random_weather.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "medicine"
+  },
+  {
+    "id": "EXPLORATION_random_lost",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "失物与归人",
+    "image": "assets/events/EXPLORATION_random_lost.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "coins"
+  },
+  {
+    "id": "EXPLORATION_random_rest",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "身体的警告",
+    "image": "assets/events/EXPLORATION_random_rest.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "medicine"
+  },
+  {
+    "id": "EXPLORATION_random_invitation",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "一席之缘",
+    "image": "assets/events/EXPLORATION_random_invitation.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "book"
+  },
+  {
+    "id": "EXPLORATION_random_region_East_Asia",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "渡口的账册",
+    "regionId": "East_Asia",
+    "image": "assets/events/EXPLORATION_random_region_East_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "coins"
+  },
+  {
+    "id": "EXPLORATION_random_region_Mediterranean",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "海岸上的货船",
+    "regionId": "Mediterranean",
+    "image": "assets/events/EXPLORATION_random_region_Mediterranean.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "coins"
+  },
+  {
+    "id": "EXPLORATION_random_region_Middle_East",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "绿洲的水渠",
+    "regionId": "Middle_East",
+    "image": "assets/events/EXPLORATION_random_region_Middle_East.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "coins"
+  },
+  {
+    "id": "EXPLORATION_random_region_Americas",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "高地的收获",
+    "regionId": "Americas",
+    "image": "assets/events/EXPLORATION_random_region_Americas.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "coins"
+  },
+  {
+    "id": "EXPLORATION_random_region_Nordic",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "峡湾的船只",
+    "regionId": "Nordic",
+    "image": "assets/events/EXPLORATION_random_region_Nordic.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "coins"
+  },
+  {
+    "id": "EXPLORATION_random_region_South_Asia",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "河岸的布市",
+    "regionId": "South_Asia",
+    "image": "assets/events/EXPLORATION_random_region_South_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "coins"
+  },
+  {
+    "id": "EXPLORATION_random_epoch",
+    "era": "EXPLORATION",
+    "year": "随本局年份",
+    "title": "远航前夕",
+    "image": "assets/events/EXPLORATION_random_epoch.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 大航海与明清",
+    "artType": "book"
+  },
+  {
+    "id": "INDUSTRIAL_random_stranger",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "雨中的陌生人",
+    "image": "assets/events/INDUSTRIAL_random_stranger.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "book"
+  },
+  {
+    "id": "INDUSTRIAL_random_venture",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "远行的本钱",
+    "image": "assets/events/INDUSTRIAL_random_venture.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "coins"
+  },
+  {
+    "id": "INDUSTRIAL_random_quarrel",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "街巷里的争执",
+    "image": "assets/events/INDUSTRIAL_random_quarrel.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "swords"
+  },
+  {
+    "id": "INDUSTRIAL_random_mentor",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "旧书与旧故事",
+    "image": "assets/events/INDUSTRIAL_random_mentor.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "book"
+  },
+  {
+    "id": "INDUSTRIAL_random_weather",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "风雨前的归途",
+    "image": "assets/events/INDUSTRIAL_random_weather.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "medicine"
+  },
+  {
+    "id": "INDUSTRIAL_random_lost",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "失物与归人",
+    "image": "assets/events/INDUSTRIAL_random_lost.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "coins"
+  },
+  {
+    "id": "INDUSTRIAL_random_rest",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "身体的警告",
+    "image": "assets/events/INDUSTRIAL_random_rest.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "medicine"
+  },
+  {
+    "id": "INDUSTRIAL_random_invitation",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "一席之缘",
+    "image": "assets/events/INDUSTRIAL_random_invitation.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "book"
+  },
+  {
+    "id": "INDUSTRIAL_random_region_East_Asia",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "渡口的账册",
+    "regionId": "East_Asia",
+    "image": "assets/events/INDUSTRIAL_random_region_East_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "coins"
+  },
+  {
+    "id": "INDUSTRIAL_random_region_Mediterranean",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "海岸上的货船",
+    "regionId": "Mediterranean",
+    "image": "assets/events/INDUSTRIAL_random_region_Mediterranean.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "coins"
+  },
+  {
+    "id": "INDUSTRIAL_random_region_Middle_East",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "绿洲的水渠",
+    "regionId": "Middle_East",
+    "image": "assets/events/INDUSTRIAL_random_region_Middle_East.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "coins"
+  },
+  {
+    "id": "INDUSTRIAL_random_region_Americas",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "高地的收获",
+    "regionId": "Americas",
+    "image": "assets/events/INDUSTRIAL_random_region_Americas.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "coins"
+  },
+  {
+    "id": "INDUSTRIAL_random_region_Nordic",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "峡湾的船只",
+    "regionId": "Nordic",
+    "image": "assets/events/INDUSTRIAL_random_region_Nordic.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "coins"
+  },
+  {
+    "id": "INDUSTRIAL_random_region_South_Asia",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "河岸的布市",
+    "regionId": "South_Asia",
+    "image": "assets/events/INDUSTRIAL_random_region_South_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "coins"
+  },
+  {
+    "id": "INDUSTRIAL_random_epoch",
+    "era": "INDUSTRIAL",
+    "year": "随本局年份",
+    "title": "工坊的订单",
+    "image": "assets/events/INDUSTRIAL_random_epoch.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 工业革命",
+    "artType": "book"
+  },
+  {
+    "id": "MODERN_random_stranger",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "雨中的陌生人",
+    "image": "assets/events/MODERN_random_stranger.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "book"
+  },
+  {
+    "id": "MODERN_random_venture",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "远行的本钱",
+    "image": "assets/events/MODERN_random_venture.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "coins"
+  },
+  {
+    "id": "MODERN_random_quarrel",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "街巷里的争执",
+    "image": "assets/events/MODERN_random_quarrel.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "swords"
+  },
+  {
+    "id": "MODERN_random_mentor",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "旧书与旧故事",
+    "image": "assets/events/MODERN_random_mentor.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "book"
+  },
+  {
+    "id": "MODERN_random_weather",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "风雨前的归途",
+    "image": "assets/events/MODERN_random_weather.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "medicine"
+  },
+  {
+    "id": "MODERN_random_lost",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "失物与归人",
+    "image": "assets/events/MODERN_random_lost.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "coins"
+  },
+  {
+    "id": "MODERN_random_rest",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "身体的警告",
+    "image": "assets/events/MODERN_random_rest.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "medicine"
+  },
+  {
+    "id": "MODERN_random_invitation",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "一席之缘",
+    "image": "assets/events/MODERN_random_invitation.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "book"
+  },
+  {
+    "id": "MODERN_random_region_East_Asia",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "渡口的账册",
+    "regionId": "East_Asia",
+    "image": "assets/events/MODERN_random_region_East_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "coins"
+  },
+  {
+    "id": "MODERN_random_region_Mediterranean",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "海岸上的货船",
+    "regionId": "Mediterranean",
+    "image": "assets/events/MODERN_random_region_Mediterranean.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "coins"
+  },
+  {
+    "id": "MODERN_random_region_Middle_East",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "绿洲的水渠",
+    "regionId": "Middle_East",
+    "image": "assets/events/MODERN_random_region_Middle_East.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "coins"
+  },
+  {
+    "id": "MODERN_random_region_Americas",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "高地的收获",
+    "regionId": "Americas",
+    "image": "assets/events/MODERN_random_region_Americas.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "coins"
+  },
+  {
+    "id": "MODERN_random_region_Nordic",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "峡湾的船只",
+    "regionId": "Nordic",
+    "image": "assets/events/MODERN_random_region_Nordic.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "coins"
+  },
+  {
+    "id": "MODERN_random_region_South_Asia",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "河岸的布市",
+    "regionId": "South_Asia",
+    "image": "assets/events/MODERN_random_region_South_Asia.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "coins"
+  },
+  {
+    "id": "MODERN_random_epoch",
+    "era": "MODERN",
+    "year": "随本局年份",
+    "title": "报馆的消息",
+    "image": "assets/events/MODERN_random_epoch.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a lone traveler contemplating a new life beside a settlement, setting: 20世纪近现代",
+    "artType": "book"
+  },
+  {
+    "id": "destiny_1",
+    "year": "随本局年份",
+    "title": "拾金之喜",
+    "image": "assets/events/destiny_1.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a traveler finding a lost purse by the roadside",
+    "artType": "coins"
+  },
+  {
+    "id": "destiny_2",
+    "year": "随本局年份",
+    "title": "高人指点",
+    "image": "assets/events/destiny_2.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, an elder advising a traveler",
+    "artType": "book"
+  },
+  {
+    "id": "destiny_3",
+    "year": "随本局年份",
+    "title": "贵人相助",
+    "image": "assets/events/destiny_3.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a patron offering food and a letter",
+    "artType": "coins"
+  },
+  {
+    "id": "destiny_4",
+    "year": "随本局年份",
+    "title": "突发痢疾",
+    "image": "assets/events/destiny_4.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, a sick traveler seeking care",
+    "artType": "medicine"
+  },
+  {
+    "id": "destiny_5",
+    "year": "随本局年份",
+    "title": "山贼洗劫",
+    "image": "assets/events/destiny_5.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, bandits robbing a traveler",
+    "artType": "swords"
+  },
+  {
+    "id": "destiny_6",
+    "year": "随本局年份",
+    "title": "细作疑云",
+    "image": "assets/events/destiny_6.webp",
+    "imagePrompt": "Traditional ink wash painting, expressive black and gray brushwork, diluted ink blooms and soft feathered edges on off-white rice paper, generous negative space, 16:9 landscape composition, no text, clothing and tools accurate to the specified era, officials questioning a stranger",
+    "artType": "scales"
+  }
+]
