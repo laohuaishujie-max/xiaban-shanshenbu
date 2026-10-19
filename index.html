@@ -49,8 +49,26 @@ dialog{border:0;border-radius:14px;background:var(--paper);color:var(--ink);widt
 .option.primary{color:#faf7f0}dialog button{font-size:14px;min-height:44px}
 .past-year{margin-bottom:14px;color:#5c5348}.past-year>summary{cursor:pointer;padding:12px 0;font-size:14px;letter-spacing:1px}.past-year[open]>summary{margin-bottom:8px}
 .stat.is-changed{animation:ink-flash .65s ease-out}.stat.is-critical .stat-value{color:#9c3b30}.tools button{min-height:36px}
+/* 生平轨迹：从现有手记生成，不改变存档格式。 */
+.timeline-summary{margin:0 0 16px;color:var(--muted);font-size:14px;line-height:1.7}
+.timeline-grid{display:grid;grid-template-columns:repeat(8,minmax(0,1fr));gap:6px;margin:0 0 18px}
+.timeline-year{height:34px;min-height:34px;margin:0;padding:0;border:1px solid #d9cec0;border-radius:4px;background:#eee8dc;font:12px Georgia,serif}
+.timeline-year.has-event{background:#dacbb6;border-color:#c8b397}
+.timeline-year.has-choice{box-shadow:inset 0 -4px #98743d}
+.timeline-year.is-current{border-color:#a45c49}
+.timeline-year[aria-pressed=true]{background:#2b2621;color:#faf7f0;box-shadow:none}
+.timeline-key{display:flex;flex-wrap:wrap;gap:12px;margin:-7px 0 16px;font-size:12px;color:var(--muted)}
+.timeline-key i{display:inline-block;width:11px;height:11px;margin-right:4px;border:1px solid #c8b397;background:#dacbb6;vertical-align:-1px}
+.timeline-key i.choice{border:0;background:#98743d}
+.timeline-record{border-top:1px solid var(--line);padding-top:12px}
+.timeline-record h3{margin:0 0 8px;font-size:17px}
+.timeline-record article{padding:8px 0;border-bottom:1px solid var(--line)}
+.timeline-record strong{font-size:14px}
+.timeline-record p{margin:4px 0;font-size:14px;line-height:1.7;white-space:pre-line}
+.tabs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+@media(min-width:430px){.tabs{grid-template-columns:repeat(4,minmax(0,1fr))}}
 </style></head>
-<body><main class="app"><section class="status-area" aria-label="人物状态"><header><div class="brand"><div><div class="eyebrow">TIME DRIFTER / 历史生存手记</div><h1>时空遗客</h1></div><span class="seal">一梦千年</span></div><div class="meta"><span id="location">命运尚未落笔</span><span id="day">第 — 日</span></div><div class="meta"><span id="identity">等待一位异乡人</span><span id="year">—</span></div><nav class="tools"><button id="save">保存进度</button><button id="load">读取存档</button><button id="sound" aria-label="声音设置">声音</button><button id="new">开启新的轮回</button></nav></header><section class="stats" id="stats" aria-label="六维属性"></section><div class="life-strip"><span id="actions">行动力 —</span><span id="bag">行囊为空</span><span id="threads"></span></div></section><section class="journal" id="journal" role="log" aria-label="生存手记"></section><footer class="decisions"><div class="decision-title">命运的岔路 · 由你落笔</div><div class="choices" id="choices"></div><nav class="tabs"><button id="market">行囊与集市</button><button id="jobs">生计打工</button><button id="family">家庭与人脉</button></nav><div class="footer-note">每次抉择后自动存档 · 广告功能为原型模拟</div></footer></main><dialog id="modal"></dialog><div id="toast" class="toast" hidden role="status"></div>
+<body><main class="app"><section class="status-area" aria-label="人物状态"><header><div class="brand"><div><div class="eyebrow">TIME DRIFTER / 历史生存手记</div><h1>时空遗客</h1></div><span class="seal">一梦千年</span></div><div class="meta"><span id="location">命运尚未落笔</span><span id="day">第 — 日</span></div><div class="meta"><span id="identity">等待一位异乡人</span><span id="year">—</span></div><nav class="tools"><button id="save">保存进度</button><button id="load">读取存档</button><button id="sound" aria-label="声音设置">声音</button><button id="new">开启新的轮回</button></nav></header><section class="stats" id="stats" aria-label="六维属性"></section><div class="life-strip"><span id="actions">行动力 —</span><span id="bag">行囊为空</span><span id="threads"></span></div></section><section class="journal" id="journal" role="log" aria-label="生存手记"></section><footer class="decisions"><div class="decision-title">命运的岔路 · 由你落笔</div><div class="choices" id="choices"></div><nav class="tabs"><button id="market">行囊与集市</button><button id="jobs">生计打工</button><button id="family">家庭与人脉</button><button id="timeline">生平轨迹</button></nav><div class="footer-note">每次抉择后自动存档 · 广告功能为原型模拟</div></footer></main><dialog id="modal"></dialog><div id="toast" class="toast" hidden role="status"></div>
 <script>
 'use strict';
 const ERAS=[{id:'tang',name:'大唐长安',year:750,scene:'朱雀大街的晨鼓刚刚敲响，胡商与驼铃穿过薄雾。'},{id:'england',name:'英格兰 · 约克',year:1348,scene:'教堂钟声为死者长鸣。瘟疫阴影下，城门正在缓缓合拢。'},{id:'rome',name:'古罗马 · 罗马城',year:180,scene:'斗兽场传来震耳欲聋的欢呼，而你站在陌生帝国的街角。'}];
@@ -261,7 +279,7 @@ function append(h,animate=true){const el=document.createElement('article');el.cl
 function foldOlderYears(){const current=Math.floor((state.day-1)/365),groups=new Map();for(const el of [...$('journal').children])if(el.matches('article.entry')&&Number(el.dataset.lifeYear)<current){const year=el.dataset.lifeYear;if(!groups.has(year))groups.set(year,[]);groups.get(year).push(el)}for(const [year,entries] of groups){const details=document.createElement('details');details.className='past-year';const summary=document.createElement('summary');summary.textContent=formatYear(currentYear({...state,day:Number(year)*365+1}))+' · 往事回顾';details.append(summary);entries[0].before(details);details.append(...entries)}}
 
 let renderedStats=null,renderedHistory=null;
-function render(){$('threads').textContent=state?.pending?.length?'未了因缘 '+state.pending.length+' 桩':'';$('location').textContent=state?state.location:'命运尚未落笔';$('year').textContent=state?formatYear(currentYear(state)):'—';$('day').textContent=state?'第 '+state.day+' 日 · '+state.turn+' 次抉择':'第 — 日';$('identity').textContent=state?state.identity+' · '+genderName(state.gender)+' · '+state.epoch:'等待一位异乡人';$('actions').textContent=state?'行动力 '+state.ap+' / 3 · '+(state.phase==='daily'?'城镇生活':'年度抉择'):'行动力 —';$('bag').textContent=state?'行囊 '+Object.values(state.inventory).reduce((a,b)=>a+b,0)+' 件 · '+state.currency+(state.inventory.jade?' · 玉佩气运 +10':''):'行囊为空';$('stats').innerHTML=Object.entries(LABELS).map(([k,n])=>'<div class="stat" data-stat="'+k+'"'+(k==='wealth'&&state?' title="通货：'+escapeHTML(state.currency)+'"':'')+'>'+n+'<span class="stat-value">'+(state?effectiveStat(k):'—')+'</span></div>').join('');if(state&&state.stats.health<=25)$('stats').querySelector('[data-stat=health]').classList.add('is-critical');const currentStats=state&&Object.fromEntries(Object.keys(LABELS).map(k=>[k,effectiveStat(k)]));if(currentStats&&renderedStats&&renderedHistory===state.history)for(const k of Object.keys(LABELS))if(currentStats[k]!==renderedStats[k]){const card=$('stats').querySelector('[data-stat='+k+']');card.classList.add('is-changed',currentStats[k]>renderedStats[k]?'is-gain':'is-loss')}renderedStats=currentStats;renderedHistory=state?.history;$('market').disabled=!canUseBag();for(const id of ['jobs','family'])$(id).disabled=!canAct();renderChoices()}
+function render(){$('threads').textContent=state?.pending?.length?'未了因缘 '+state.pending.length+' 桩':'';$('location').textContent=state?state.location:'命运尚未落笔';$('year').textContent=state?formatYear(currentYear(state)):'—';$('day').textContent=state?'第 '+state.day+' 日 · '+state.turn+' 次抉择':'第 — 日';$('identity').textContent=state?state.identity+' · '+genderName(state.gender)+' · '+state.epoch:'等待一位异乡人';$('actions').textContent=state?'行动力 '+state.ap+' / 3 · '+(state.phase==='daily'?'城镇生活':'年度抉择'):'行动力 —';$('bag').textContent=state?'行囊 '+Object.values(state.inventory).reduce((a,b)=>a+b,0)+' 件 · '+state.currency+(state.inventory.jade?' · 玉佩气运 +10':''):'行囊为空';$('stats').innerHTML=Object.entries(LABELS).map(([k,n])=>'<div class="stat" data-stat="'+k+'"'+(k==='wealth'&&state?' title="通货：'+escapeHTML(state.currency)+'"':'')+'>'+n+'<span class="stat-value">'+(state?effectiveStat(k):'—')+'</span></div>').join('');if(state&&state.stats.health<=25)$('stats').querySelector('[data-stat=health]').classList.add('is-critical');const currentStats=state&&Object.fromEntries(Object.keys(LABELS).map(k=>[k,effectiveStat(k)]));if(currentStats&&renderedStats&&renderedHistory===state.history)for(const k of Object.keys(LABELS))if(currentStats[k]!==renderedStats[k]){const card=$('stats').querySelector('[data-stat='+k+']');card.classList.add('is-changed',currentStats[k]>renderedStats[k]?'is-gain':'is-loss')}renderedStats=currentStats;renderedHistory=state?.history;$('market').disabled=!canUseBag();for(const id of ['jobs','family'])$(id).disabled=!canAct();$('timeline').disabled=!state;renderChoices()}
 function renderChoices(){const area=$('choices');area.replaceChildren();if(!state||state.status==='ended'){const b=document.createElement('button');b.className='option primary';b.textContent='开启新的轮回 →';b.onclick=requestNew;area.append(b);return}if(state.status!=='alive')return;if(state.phase==='daily'){const b=document.createElement('button');b.className='option primary';b.textContent='推进命运 · 进入下一年 →';b.style.gridColumn='1 / -1';b.disabled=busy;b.onclick=advanceYear;area.append(b);return}activeEvent().options.forEach((o,i)=>{const b=document.createElement('button');b.className='option';if(o.adUnlock||o.test||o.require)b.dataset.mark=o.adUnlock?'天选':o.test?'检定':'门槛';let unmet=o.require&&Object.entries(o.require).some(([k,v])=>effectiveStat(k)<v);const insufficient=o.effect?.wealth<0&&state.stats.wealth < -o.effect.wealth;b.disabled=!!unmet||insufficient||busy;const text=document.createElement('span');text.textContent=o.text;b.append(text);const small=document.createElement('small');small.textContent=insufficient?'盘缠不足 · 需要 '+amount(-o.effect.wealth):o.adUnlock?'✧ 模拟广告 3 秒 · 本次选项解锁':o.test?'检定：'+LABELS[o.test]+' · 成功率 '+chance(effectiveStat(o.test))+'%':o.require?'需要 '+Object.entries(o.require).map(([k,v])=>LABELS[k]+' ≥ '+v).join('、'):Object.entries(o.effect||{}).map(([k,v])=>LABELS[k]+(v>0?' +':' ')+v).join(' · ');b.append(small);b.onclick=()=>o.adUnlock?advert(()=>choose(i),'解锁命运选项'):choose(i);area.append(b)})}
 function chance(value){return Math.max(10,Math.min(95,Math.round(value*.8+effectiveStat('luck')*.2)))}
 function effects(effect,disease=false,attack=false){let changes=[];for(const [k,v] of Object.entries(effect||{})){if(!Object.hasOwn(LABELS,k))continue;let d=v;if(k==='health'&&d<0)d*=epochOf().damageMultiplier;if(k==='health'&&d<0&&disease&&state.talents.includes('antibody'))d=Math.ceil(d/2);if(k==='prestige'&&d>0&&state.talents.includes('stranger'))d=Math.floor(d*.75);const before=state.stats[k];if(k==='health'&&d<0&&attack&&before+d<=0&&state.inventory.dagger){state.inventory.dagger--;d=1-before;log('notice','【防身匕首】消耗一把，挡下致命袭击，保留 1 健康。')}state.stats[k]=Math.max(0,Math.min(k==='wealth'?Number.MAX_SAFE_INTEGER:100,before+d));const diff=state.stats[k]-before;if(diff)changes.push(LABELS[k]+(diff>0?' +':' ')+diff)}if(changes.length)log('notice','【属性变动】'+changes.join(' · '))}
@@ -282,6 +300,66 @@ function saveTransferControls(parent){const row=document.createElement('div');ro
 
 function slots(mode){if(busy)return;const m=$('modal');m.classList.remove('life-panel');m.replaceChildren();const h=document.createElement('h2');h.textContent=mode==='save'?'将此刻封入书页':'重返旧日时空';m.append(h);const keys=mode==='load'?['auto','1','2','3']:['1','2','3'];keys.forEach(n=>{const s=read('time-drifter-'+n),v=valid(s),row=document.createElement('div');row.className='slot';const title=document.createElement('strong');title.textContent=n==='auto'?'自动存档':'存档槽位 '+n;const p=document.createElement('p');p.textContent=v?migrate(s).location+' · '+formatYear(currentYear(migrate(s)))+' · 第 '+s.day+' 日 · '+s.identity+'\n'+(s.savedAt?new Date(s.savedAt).toLocaleString('zh-CN'):'未知时间'):s?'存档不可用':'空白书页';const b=document.createElement('button');b.textContent=mode==='save'?(s?'覆盖此槽位':'保存到此槽位'):'读取';b.disabled=mode==='save'?!state:!v;b.onclick=()=>{if(mode==='load')restore(s);else if(s){showModal('覆盖存档','确认覆盖槽位 '+n+' 的旧进度？',[['确认覆盖',()=>{if(write('time-drifter-'+n,snapshot())){toast('已保存到槽位 '+n);slots(mode)}}],['返回',()=>slots(mode)]])}else if(write('time-drifter-'+n,snapshot())){toast('已保存到槽位 '+n);slots(mode)}};row.append(title,p,b);m.append(row)});saveTransferControls(m);const back=document.createElement('button');back.textContent='返回';back.onclick=close;m.append(back);if(!m.open)m.showModal()}
 // 生活界面使用同一份 state；新增商品、工作只需扩充 ITEMS / JOBS。
+function timelinePanel(){
+ if(!state)return;
+ const years=new Map();
+ for(const h of state.history){
+  const index=Math.floor((h.day-1)/365);
+  if(!years.has(index))years.set(index,[]);
+  if(['intro','event','choice'].includes(h.kind))years.get(index).push(h);
+ }
+ const total=Math.floor((state.day-1)/365)+1;
+ const choiceCount=state.history.filter(h=>h.kind==='choice').length;
+ const body=panel('生平轨迹',state.identity+' · '+state.location);
+ const summary=document.createElement('p');
+ summary.className='timeline-summary';
+ summary.textContent='已走过 '+total+' 年 · '+choiceCount+' 次抉择。选择一个年份，重看当年的际遇与决定。';
+ body.append(summary);
+ const grid=document.createElement('div');
+ grid.className='timeline-grid';
+ grid.setAttribute('role','group');
+ grid.setAttribute('aria-label','生平年份');
+ const detail=document.createElement('section');
+ detail.className='timeline-record';
+ function selectYear(index){
+  for(const button of grid.children)button.setAttribute('aria-pressed',String(Number(button.dataset.year)===index));
+  detail.replaceChildren();
+  const heading=document.createElement('h3');
+  heading.textContent=formatYear(currentYear({...state,day:index*365+1}))+' · 第 '+(index+1)+' 年';
+  detail.append(heading);
+  const entries=years.get(index)||[];
+  if(!entries.length){const p=document.createElement('p');p.textContent='这一年尚无值得记录的事件。';detail.append(p)}
+  for(const h of entries){
+   const article=document.createElement('article');
+   const title=document.createElement('strong');
+   title.textContent=h.title||(h.kind==='choice'?'你的选择':'岁月片段');
+   const p=document.createElement('p');
+   p.textContent=h.text;
+   article.append(title,p);
+   detail.append(article);
+  }
+ }
+ for(let index=0;index<total;index++){
+  const entries=years.get(index)||[];
+  const button=document.createElement('button');
+  button.type='button';
+  button.className='timeline-year';
+  button.dataset.year=index;
+  button.textContent=String(index+1);
+  button.title=formatYear(currentYear({...state,day:index*365+1}));
+  button.setAttribute('aria-label','第 '+(index+1)+' 年，'+button.title);
+  button.classList.toggle('has-event',entries.some(h=>h.kind==='event'));
+  button.classList.toggle('has-choice',entries.some(h=>h.kind==='choice'));
+  button.classList.toggle('is-current',index===total-1);
+  button.onclick=()=>selectYear(index);
+  grid.append(button);
+ }
+ const legend=document.createElement('div');
+ legend.className='timeline-key';
+ legend.innerHTML='<span><i></i>事件</span><span><i class="choice"></i>做过选择</span>';
+ body.append(grid,legend,detail);
+ selectYear(total-1);
+}
 function panel(title,intro){const m=$('modal');m.replaceChildren();m.classList.add('life-panel');const head=document.createElement('div');head.className='panel-head';const h=document.createElement('h2');h.textContent=title;const back=document.createElement('button');back.textContent=state?.phase==='event'?'返回事件':'返回城镇';back.onclick=close;head.append(h,back);const body=document.createElement('div');body.className='panel-body';const p=document.createElement('p');p.textContent=intro;body.append(p);m.append(head,body);m.scrollTop=0;if(!m.open)m.showModal();return body}
 function card(parent,title,description,actions){const row=document.createElement('div');row.className='card';const h=document.createElement('strong');h.textContent=title;const p=document.createElement('p');p.textContent=description;row.append(h,p);for(const a of actions){const b=document.createElement('button');b.textContent=a.text;b.disabled=!!a.disabled;b.onclick=a.run;row.append(b)}parent.append(row)}
 function purchase(id){if(!canAct())return;const item=ITEMS.find(i=>i.id===id);if(!item?.price||state.stats.wealth<item.price||item.type==='asset'&&state.inventory[id])return;effects({wealth:-item.price});state.inventory[id]=(state.inventory[id]||0)+1;log('notice','【购入】'+item.name+'，花费 '+amount(item.price));changed();marketPanel()}
@@ -315,7 +393,7 @@ function soundPanel(){if(busy){toast('请等待当前模拟广告播放完毕');
  ['返回',close]]);if(!('speechSynthesis' in window)){$('modal').querySelectorAll('button')[2].disabled=true;$('modal').querySelector('p').textContent+=' 当前浏览器不支持旁白。'}}
 Sound.init();$('sound').onclick=soundPanel;
 
-$('market').onclick=marketPanel;$('jobs').onclick=jobsPanel;$('family').onclick=familyPanel;
+$('market').onclick=marketPanel;$('jobs').onclick=jobsPanel;$('family').onclick=familyPanel;$('timeline').onclick=timelinePanel;
 $('save').onclick=()=>state?slots('save'):toast('请先开启轮回');$('load').onclick=()=>slots('load');$('new').onclick=requestNew;$('modal').addEventListener('cancel',e=>{if(busy||state?.status==='dying')e.preventDefault()});
 render();$('journal').innerHTML='<div class="welcome"><div id="cover-art"></div><div class="eyebrow">一卷人生 · 七大纪元 · 自主人生</div><h2>你醒来时，已非昨日</h2><p>没有归途的地图，也没有注定的结局。<br>凭借记忆、胆识与一点气运，<br>在陌生的历史里，活成自己的传奇。</p><p class="talents">原始至20世纪 · 六大区域 · 打工 / 家庭 / 集市</p></div>';$('cover-art').append(engraving({image:'assets/ink_cover.webp',artType:'hourglass',alt:'时空流转'}));if(valid(read('time-drifter-auto'))){const b=document.createElement('button');b.className='option';b.textContent='继续上次旅途 →';b.onclick=()=>restore(read('time-drifter-auto'));$('choices').append(b)}
 </script></body></html>
